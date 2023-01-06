@@ -1,0 +1,11 @@
+C:\Users\Civ\source\repos\Platform-Game-in-Windows-Form\Platform Game\bin\Debug\Platform Game Tutorial MOO ICT.exe.config
+C:\Users\Civ\source\repos\Platform-Game-in-Windows-Form\Platform Game\bin\Debug\Platform Game Tutorial MOO ICT.exe
+C:\Users\Civ\source\repos\Platform-Game-in-Windows-Form\Platform Game\bin\Debug\Platform Game Tutorial MOO ICT.pdb
+C:\Users\Civ\source\repos\Platform-Game-in-Windows-Form\Platform Game\obj\Debug\PlatForm_Game.csproj.AssemblyReference.cache
+C:\Users\Civ\source\repos\Platform-Game-in-Windows-Form\Platform Game\obj\Debug\PlatForm_Game.csproj.SuggestedBindingRedirects.cache
+C:\Users\Civ\source\repos\Platform-Game-in-Windows-Form\Platform Game\obj\Debug\PlatForm_Game.Form1.resources
+C:\Users\Civ\source\repos\Platform-Game-in-Windows-Form\Platform Game\obj\Debug\Platform_Game_Tutorial_MOO_ICT.Properties.Resources.resources
+C:\Users\Civ\source\repos\Platform-Game-in-Windows-Form\Platform Game\obj\Debug\PlatForm_Game.csproj.GenerateResource.cache
+C:\Users\Civ\source\repos\Platform-Game-in-Windows-Form\Platform Game\obj\Debug\PlatForm_Game.csproj.CoreCompileInputs.cache
+C:\Users\Civ\source\repos\Platform-Game-in-Windows-Form\Platform Game\obj\Debug\Platform Game Tutorial MOO ICT.exe
+C:\Users\Civ\source\repos\Platform-Game-in-Windows-Form\Platform Game\obj\Debug\Platform Game Tutorial MOO ICT.pdb
